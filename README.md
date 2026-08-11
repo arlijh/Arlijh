@@ -28,6 +28,7 @@
 ![LivePerson](https://img.shields.io/badge/LivePerson-FF5A00?style=for-the-badge&logo=liveperson&logoColor=white)
 ![Talkdesk](https://img.shields.io/badge/Talkdesk-4A154B?style=for-the-badge)
 ![Genesys](https://img.shields.io/badge/Genesys-FF4F00?style=for-the-badge)
+
 **Data Engineering & Analytics**  
 ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT_Pipelines-0052CC?style=for-the-badge)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-0F9D58?style=for-the-badge)
