@@ -25,7 +25,9 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
-
+![LivePerson](https://img.shields.io/badge/LivePerson-FF5A00?style=for-the-badge&logo=liveperson&logoColor=white)
+![Talkdesk](https://img.shields.io/badge/Talkdesk-4A154B?style=for-the-badge)
+![Genesys](https://img.shields.io/badge/Genesys-FF4F00?style=for-the-badge)
 **Data Engineering & Analytics**  
 ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT_Pipelines-0052CC?style=for-the-badge)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-0F9D58?style=for-the-badge)
