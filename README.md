@@ -50,7 +50,7 @@
 
 ### 💼 Career Highlights
 
-* **Data Analytics Manager / Data Engineer** | *Teleperformance* *(Feb 2025 – March 2026)*[cite: 1]
+* **Data Analytics Manager / Data Engineer** | *Teleperformance* *(Feb 2025 – June 2026)*[cite: 1]
   * Designed and maintained enterprise database infrastructures and ETL processes[cite: 1].
   * Automated cloud data extractions (Amazon S3, Salesforce, Zendesk, Genesys, Talkdesk, Liveperson) using Python[cite: 1].
 * **Data Scientist** | *Teleperformance* *(Jan 2021 – Feb 2025)*[cite: 1]
