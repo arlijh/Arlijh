@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-* 📍 Based in **Caloocan, Philippines**[cite: 1]
+* 📍 Based in **Caloocan, Philippines**
 * 💼 **Data Analytics Manager / Data Engineer / Data Scientist** with 5+ years of experience architecting end-to-end data pipelines, predictive models, and cloud database solutions[cite: 1].
 * 🚀 Specialized in automated ETL/ELT extraction, sentiment analysis, and translating data models into executive BI dashboards[cite: 1].
 * 📧 Reach me at: **arlijhjudecasenares@gmail.com**[cite: 1]
